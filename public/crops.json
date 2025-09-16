@@ -1,0 +1,92 @@
+[
+  {
+    "id": "corn",
+    "name": "Corn",
+    "water": "High",
+    "soil": ["Loamy", "Sandy"],
+    "season": ["Spring", "Summer"],
+    "pestRisk": "Moderate",
+    "description": "Corn requires high water and grows best in loamy or sandy soil during spring and summer. It prefers warm temperatures and full sun and benefits from adequate nitrogen and irrigation during tasseling and silking."
+  },
+  {
+    "id": "soybeans",
+    "name": "Soybeans",
+    "water": "Moderate",
+    "soil": ["Loamy", "Sandy"],
+    "season": ["Spring", "Summer"],
+    "pestRisk": "Low",
+    "description": "Soybeans are a nitrogen-fixing legume that prefers warm conditions and well-drained soils. Keep fields well-drained, monitor for rust and aphids, and harvest when pods are brown."
+  },
+  {
+    "id": "tomatoes",
+    "name": "Tomatoes",
+    "water": "High",
+    "soil": ["Loamy", "Sandy"],
+    "season": ["Spring", "Summer"],
+    "pestRisk": "High",
+    "description": "Tomatoes need consistent moisture and warm weather. Use staking or cages, avoid waterlogging, and protect from blight. Best grown in full sun with balanced calcium to prevent blossom-end rot."
+  },
+  {
+    "id": "rice",
+    "name": "Rice",
+    "water": "Very High",
+    "soil": ["Clay", "Silty"],
+    "season": ["Summer"],
+    "pestRisk": "High",
+    "description": "Rice thrives in controlled flooded conditions. Manage water efficiently, monitor for blast and stem borers, and drain fields before harvest for even ripening."
+  },
+  {
+    "id": "wheat",
+    "name": "Wheat",
+    "water": "Moderate",
+    "soil": ["Loamy", "Clay"],
+    "season": ["Autumn", "Winter"],
+    "pestRisk": "Low",
+    "description": "Wheat is a cool-season cereal preferring well-drained loams. Timely sowing, balanced fertilization, and rust-resistant varieties improve yields."
+  },
+  {
+    "id": "potatoes",
+    "name": "Potatoes",
+    "water": "Moderate",
+    "soil": ["Sandy", "Loamy"],
+    "season": ["Spring", "Autumn"],
+    "pestRisk": "Moderate",
+    "description": "Potatoes prefer cool temperatures and loose, well-drained soils. Hill plants to protect tubers from greening and manage late blight."
+  },
+  {
+    "id": "cotton",
+    "name": "Cotton",
+    "water": "High",
+    "soil": ["Loamy", "Clay"],
+    "season": ["Spring", "Summer"],
+    "pestRisk": "High",
+    "description": "Cotton needs a long, warm growing season and is sensitive to water stress at flowering. Integrated pest management is recommended for bollworms and sucking pests."
+  },
+  {
+    "id": "barley",
+    "name": "Barley",
+    "water": "Low",
+    "soil": ["Loamy", "Sandy"],
+    "season": ["Autumn", "Winter"],
+    "pestRisk": "Low",
+    "description": "Barley tolerates drought better than wheat and is used for malt, feed, and food. Prefers cool, dry climates and moderate nitrogen to avoid lodging."
+  },
+  {
+    "id": "carrots",
+    "name": "Carrots",
+    "water": "Moderate",
+    "soil": ["Sandy", "Loamy"],
+    "season": ["Spring", "Autumn"],
+    "pestRisk": "Low",
+    "description": "Carrots are a cool-season root crop that prefers sandy loam. Keep soil evenly moist, thin seedlings, and avoid fresh manure to prevent forked roots."
+  },
+  {
+    "id": "lettuce",
+    "name": "Lettuce",
+    "water": "High",
+    "soil": ["Loamy", "Sandy"],
+    "season": ["Spring", "Autumn"],
+    "pestRisk": "Moderate",
+    "description": "Lettuce prefers cool weather and bolts in heat. Maintain steady moisture, use shade nets in hot climates, and harvest early in the morning for best quality."
+  }
+]
